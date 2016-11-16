@@ -38,7 +38,7 @@ header {
 
 nav {
     height: 35px;
-    background-color: blue;
+    background-color: #f27;
     padding-top: 15px;
 }
 
@@ -58,7 +58,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: red;
+    color:#fc0;
     text-decoration: none; 
 }
 
@@ -80,7 +80,7 @@ article {
 
 footer {
     margin-top: 20px;
-    background-color:  #f27;
+    background-color:  blue;
     height: 30px;
     text-align: center;
     color: #fff;
