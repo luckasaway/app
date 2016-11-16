@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-image: url(../img/flamengo.jpg);
+}
+
+p {
+    font-family: Arial;
+    font-size: 13px;
+    color: #999; 
+    margin-top: 15px;
+}
+
+h2 {
+    font-family: Arial;
+    font-size: 16px;
+    color: #333; 
+    margin-top: 15px;
+}
+
+#principal {
+    width: 1000px;
+    margin: auto;
+    background-color: #fff;
+}
+
+header {
+    height: 150px;
+    background-color: #999;
+    text-align: center;
+    color: yellow;
+    padding-top: 50px;
+}
+
+nav {
+    height: 35px;
+    background-color: blue;
+    padding-top: 15px;
+}
+
+nav ul {
+    display: inline;
+}
+
+nav ul li {
+    list-style: none;
+    float: left;
+    margin-left: 50px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none; 
+}
+
+nav ul li a:hover {
+    color: red;
+    text-decoration: none; 
+}
+
+#seguradora {
+    display: inline-block;
+}
+
+aside {
+    width: 250px;
+    float: left;
+    margin-left: 15px;
+}
+
+article {
+    width: 700px;
+    float: right;
+    margin-left: 25px;
+}
+
+footer {
+    margin-top: 20px;
+    background-color:  #f27;
+    height: 30px;
+    text-align: center;
+    color: #fff;
+    padding-top: 10px;
+}
